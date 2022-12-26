@@ -1,1 +1,2 @@
 This is FileA
+THis is modified file A
